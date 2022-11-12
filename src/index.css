@@ -127,3 +127,8 @@ footer {
 .footer_description a:hover {
   color: hsl(289, 72%, 27%)
 }
+
+.toActivate {
+  margin: 5px 0;
+  font-size: 9px;
+}
